@@ -10,7 +10,7 @@ namespace TestProj
     {
         public static void Main()
         {
-            Console.WriteLine("Test TravisCi");
+            Console.WriteLine("Test TravisCi")
         }
     }
 }
