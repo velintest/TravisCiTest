@@ -1,0 +1,5 @@
+c:\users\vivanov\documents\visual studio 2015\Projects\TestProj\TestProj\bin\Debug\TestProj.dll
+c:\users\vivanov\documents\visual studio 2015\Projects\TestProj\TestProj\bin\Debug\TestProj.pdb
+c:\users\vivanov\documents\visual studio 2015\Projects\TestProj\TestProj\obj\Debug\TestProj.csprojResolveAssemblyReference.cache
+c:\users\vivanov\documents\visual studio 2015\Projects\TestProj\TestProj\obj\Debug\TestProj.dll
+c:\users\vivanov\documents\visual studio 2015\Projects\TestProj\TestProj\obj\Debug\TestProj.pdb
