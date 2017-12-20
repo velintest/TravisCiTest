@@ -1,2 +1,11 @@
 language: csharp
 solution: TestProj.sln
+
+deploy:
+  provider: releases
+  user: "velintest"
+  password: "q1w2e3r4"
+  file: "TestProj.dll"
+  skip_cleanup: true
+  on:
+    tags: true
