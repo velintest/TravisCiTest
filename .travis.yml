@@ -3,9 +3,8 @@ solution: TestProj.sln
 
 deploy:
   provider: releases
-  user: "velintest"
-  password: "q1w2e3r4"
-  file: "TestProj.dll"
+  api_key: "8cb0d74a220c869f32d9f37f2568ee255f8b0b50 "
+  file: "$TRAVIS_BUILD_DIR"
   skip_cleanup: true
   on:
     tags: true
